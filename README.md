@@ -8,7 +8,12 @@ dotnet publish .\src\ConsoleApp\ -c Release -r win-x64 -o artifacts\A\ConsoleApp
 
 ## Output Resource folder
 
+![](images/Artifcats A Resource Folder.jpg)
+
 [Artifacts](https://github.com/EifelMono/MissingFiles/tree/main/artifacts/A/ConsoleApp/Resources)
 
 ## Source Resource folder
+
+![](images/Source Resource Folder.jpg)
+
 [Source](https://github.com/EifelMono/MissingFiles/tree/main/src/ConsoleApp/Resources)
