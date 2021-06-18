@@ -1,7 +1,0 @@
-C:\Dev\bugs\MissingFiles\artifacts\N\ConsoleApp\ConsoleApp.pdb
-C:\Dev\bugs\MissingFiles\artifacts\N\ConsoleApp\Resources\dotnet_bot.svg
-C:\Dev\bugs\MissingFiles\artifacts\N\ConsoleApp\Resources\Images\dotnet_bot.svg
-C:\Dev\bugs\MissingFiles\artifacts\N\ConsoleApp\Resources\microsoft.jpg
-C:\Dev\bugs\MissingFiles\artifacts\N\ConsoleApp\Resources\microsoft.png
-C:\Dev\bugs\MissingFiles\artifacts\N\ConsoleApp\Resources\text.txt
-C:\Dev\bugs\MissingFiles\artifacts\N\ConsoleApp\ConsoleApp.exe
