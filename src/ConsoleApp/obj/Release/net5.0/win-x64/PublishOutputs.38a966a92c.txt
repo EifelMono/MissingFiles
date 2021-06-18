@@ -1,0 +1,2 @@
+C:\Dev\bugs\MissingFiles\artifacts\P\ConsoleApp\ConsoleApp.pdb
+C:\Dev\bugs\MissingFiles\artifacts\P\ConsoleApp\ConsoleApp.exe
